@@ -108,7 +108,7 @@
             Controls.Add(btnGenerate);
             Controls.Add(txtFolderCount);
             Name = "Form1";
-            Text = "Form1";
+            Text = "文件夹生成器";
             Load += Form1_Load;
             SizeChanged += Form1_SizeChanged;
             ResumeLayout(false);
